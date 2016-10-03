@@ -34,7 +34,7 @@ Một hoặc vài thành viên sẽ được phân công đọc, tìm hiểu k�
   * Học sử dụng tool word2vec
   * Sử dụng word vectors để tính word similarity 
 - Convolutional Neural Network (CNN)
-  * Tool CNN bằng C++ [from sklearn.model_selection import GridSearchCV](from sklearn.model_selection import GridSearchCV)
+  * Tool CNN bằng C++ [https://github.com/clab/cnn](https://github.com/clab/cnn)
   * Học cách sử dụng tool [PyCNN](from sklearn.model_selection import GridSearchCV)
   * Sử dụng CNN cho bài toán phân lớp
 - Recurrent Neural Networks
