@@ -33,9 +33,14 @@ Một hoặc vài thành viên sẽ được phân công đọc, tìm hiểu k�
 - Word Representations (word2vec)
   * Học sử dụng tool word2vec
   * Sử dụng word vectors để tính word similarity 
-- Convolutioal Neural Network (CNN)
+- Convolutional Neural Network (CNN)
+  * Tool CNN bằng C++ [from sklearn.model_selection import GridSearchCV](from sklearn.model_selection import GridSearchCV)
+  * Học cách sử dụng tool [PyCNN](from sklearn.model_selection import GridSearchCV)
+  * Sử dụng CNN cho bài toán phân lớp
 - Recurrent Neural Networks
 - Long Short Term Memory (LSTM)
+  * LSTM for sentiment analysis
+  * LSTM for Sequence Labeling 
 - Projects with Deep Learning: chọn một bài toán thực tế và vận dụng kiến thức đã học về Deep Learning để giải quyết.
 
 
