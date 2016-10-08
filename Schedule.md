@@ -20,6 +20,7 @@
 - [Lecture notes 1 (Supervised Learning, Discriminative Algorithms)](http://cs229.stanford.edu/notes/cs229-notes1.pdf), cs229 course, Stanford
 - [Vocabulary for Deep Learning](https://www.phontron.com/slides/neubig14deeplunch11.pdf), by Graham Neubig
 - [Python Numpy Tutorial](http://cs231n.github.io/python-numpy-tutorial)
+- (Optional) [From Machine Learning to Deep Learning](https://classroom.udacity.com/courses/ud730/lessons/6370362152/concepts/63815621490923) on Udacity
 
 
 
