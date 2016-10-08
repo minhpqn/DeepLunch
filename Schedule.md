@@ -1,6 +1,6 @@
 # Lịch hoạt động của nhóm học tập Deep Learning (Deep Lunch)
 
-## Buổi offline 1: Cở bản về Machine Learning và Deep Learning
+## Buổi offline 1: Cơ bản về Machine Learning và Deep Learning
 
 - Thời gian: 12:00 ~ 14:00 ngày 19/10/2016
 
