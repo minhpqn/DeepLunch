@@ -22,6 +22,13 @@
 - [Python Numpy Tutorial](http://cs231n.github.io/python-numpy-tutorial)
 - (Optional) [From Machine Learning to Deep Learning](https://classroom.udacity.com/courses/ud730/lessons/6370362152/concepts/63815621490923) on Udacity
 
+### Bài thực hành (offline meeting 1)
+
+Cài đặt thuật toán Perceptron. Xem [Tutorial của Graham Neubig](http://www.phontron.com/slides/nlp-programming-en-05-perceptron.pdf).
+
+
+
+
 
 
 
