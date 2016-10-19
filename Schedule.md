@@ -1,6 +1,6 @@
 # Lịch hoạt động của nhóm học tập Deep Learning (Deep Lunch)
 
-## Buổi offline meeting 2: Thuật toán optimization cơ bản, mạng Neural đơn giản
+## Buổi offline meeting 2: Thuật toán optimization cơ bản, cài đặt thuật toán Perceptron (mạng Neural 1 tầng)
 
 - Thời gian (dự kiến): 12:30 ~ 14:00 ngày 26/10/2016
 
@@ -28,7 +28,7 @@
 
 ## Buổi offline meeting 1: Cơ bản về Machine Learning và Deep Learning
 
-- Thời gian: 12:00 ~ 14:00 ngày 19/10/2016
+- Thời gian: 12:30 ~ 14:00 ngày 19/10/2016
 
 ### Chủ đề:
 
