@@ -7,6 +7,7 @@
 ### Chủ đề:
 
 - Chủ đề của buổi meeting thứ 3 là mọi người chia sẻ kinh nghiệm khi cài đặt mạng Neural Feed-forward nhiều tầng sử dụng các thư viện Machine Learning phổ biến như: Theano, scikit-learn, tensorflow, cntk, kerras,...
+- Ngoài ra chúng ta sẽ cùng nghe các bài giảng về mạng Neural trong các khoá học online và thảo luận các nội dung trong đó.
 
 Các cài đặt sẽ thử nghiệm trên các benchmark data phổ biến:
 
@@ -14,7 +15,6 @@ Các cài đặt sẽ thử nghiệm trên các benchmark data phổ biến:
 - Benchmarking data sets cho các thuật toán Deep Learning: [http://deeplearning.net/datasets/](http://deeplearning.net/datasets/)
 - Data sets cho bài toán phân lớp: [http://www.is.umk.pl/projects/datasets.html](http://www.is.umk.pl/projects/datasets.html)
 - Dữ liệu trong các dự án bạn đã/đang làm.
-- Ngoài ra chúng ta sẽ cùng nghe các bài giảng về mạng Neural trong các khoá học online và thảo luận các nội dung trong đó.
 
 Mục tiêu:
 
