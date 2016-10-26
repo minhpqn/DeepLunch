@@ -25,6 +25,7 @@ Mục tiêu:
 - [Chapter 6 - Deep Feedforwad Network](http://www.deeplearningbook.org/contents/mlp.html), Deep Learning book.
 - [Week 4, Neural Networks: Representation](https://www.coursera.org/learn/machine-learning/home/week/4), by Andrew Ng.
 - [Week 5, Neural Networks: Learning](https://www.coursera.org/learn/machine-learning/home/week/5), by Andrew Ng.
+- Video lecture 1.1 ~ 2.11 in [video list](https://www.youtube.com/playlist?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH) of Hugo Larochelle.
 - Chapter 1 and chapter 2, [Neural Network and Deep Learning book](http://neuralnetworksanddeeplearning.com), by Michael Nielsen.
 - [Multilayer Perceptron using Theano](http://deeplearning.net/tutorial/mlp.html#mlp)
 - [Beginner Tutorial: Neural Nets in Theano](http://outlace.com/Beginner-Tutorial-Theano/)
