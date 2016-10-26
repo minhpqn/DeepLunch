@@ -1,5 +1,36 @@
 # Lịch hoạt động của nhóm học tập Deep Learning (Deep Lunch)
 
+## Buổi offline meeting 3: Feed-forward Neural Networks
+
+- Thời gian (dự kiến): 12:30 ~ 14:00 ngày 2/11/2016
+
+### Chủ đề:
+
+- Chủ đề của buổi meeting thứ 3 là mọi người chia sẻ kinh nghiệm khi cài đặt mạng Neural Feed-forward nhiều tầng sử dụng các thư viện Machine Learning phổ biến như: Theano, scikit-learn, tensorflow, cntk, kerras,...
+
+Các cài đặt sẽ thử nghiệm trên các benchmark data phổ biến:
+
+- [MNIST](http://yann.lecun.com/exdb/mnist/): Dữ liệu nhận dạng chữ viết tay
+- Benchmarking data sets cho các thuật toán Deep Learning: [http://deeplearning.net/datasets/](http://deeplearning.net/datasets/)
+- Data sets cho bài toán phân lớp: [http://www.is.umk.pl/projects/datasets.html](http://www.is.umk.pl/projects/datasets.html)
+- Dữ liệu trong các dự án bạn đã/đang làm.
+
+- Ngoài ra chúng ta sẽ cùng nghe các bài giảng về mạng Neural trong các khoá học online và thảo luận các nội dung trong đó.
+
+Mục tiêu:
+
+- Giúp mọi người hiểu được ý tưởng cơ bản của **feed-forward neural network** trước khi đi vào chi tiết khó hơn về thuật toán **backpropagation** dùng để huấn luyện mạng Neural.
+
+### Recommended Readings
+
+- [Chapter 6 - Deep Feedforwad Network](http://www.deeplearningbook.org/contents/mlp.html), Deep Learning book.
+- [Week 4, Neural Networks: Representation](https://www.coursera.org/learn/machine-learning/home/week/4), by Andrew Ng.
+- [Week 5, Neural Networks: Learning](https://www.coursera.org/learn/machine-learning/home/week/5), by Andrew Ng.
+- Chapter 1 and chapter 2, [Neural Network and Deep Learning book](http://neuralnetworksanddeeplearning.com), by Michael Nielsen.
+- [Multilayer Perceptron using Theano](http://deeplearning.net/tutorial/mlp.html#mlp)
+- [Beginner Tutorial: Neural Nets in Theano](http://outlace.com/Beginner-Tutorial-Theano/)
+- [Practical Guide to implementing Neural Networks in Python (using Theano)](https://www.analyticsvidhya.com/blog/2016/04/neural-networks-python-theano/)
+
 ## Buổi offline meeting 2: Thuật toán optimization cơ bản, cài đặt thuật toán Perceptron (mạng Neural 1 tầng)
 
 - Thời gian (dự kiến): 12:30 ~ 14:00 ngày 26/10/2016
