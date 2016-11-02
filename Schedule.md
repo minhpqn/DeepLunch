@@ -1,10 +1,26 @@
 # Lịch hoạt động của nhóm học tập Deep Learning (Deep Lunch)
 
+## Buổi offline meeting 4: Thuật toán back propagation để huấn luyện mạng Neural
+
+- Thời gian (dự kiến): 12:30 ~ 14:00 ngày 10/11/2016
+
+### Chủ đề
+
+- Học về thuật toán back propagation để huấn luyện mạng Neural (nghe bài giảng của giáo sư Andrew Ng).
+- Tìm hiểu cách cài đặt multi-layer perceptron sử dụng Theano và so sánh với các thư viện Keras và scikit-learn.
+
+### Recommended Readings
+
+- [Week 5, Neural Networks: Learning](https://www.coursera.org/learn/machine-learning/home/week/5), by Andrew Ng.
+- [Keras: Deep Learning library for Theano and TensorFlow](https://keras.io/)
+- [Develop Your First Neural Network in Python With Keras Step-By-Step](http://machinelearningmastery.com/tutorial-first-neural-network-python-keras/)
+- [Neural network models with scikit-learn](http://scikit-learn.org/stable/modules/neural_networks_supervised.html)
+
 ## Buổi offline meeting 3: Feed-forward Neural Networks
 
 - Thời gian (dự kiến): 12:30 ~ 14:00 ngày 2/11/2016
 
-### Chủ đề:
+### Chủ đề
 
 - Chủ đề của buổi meeting thứ 3 là mọi người chia sẻ kinh nghiệm khi cài đặt mạng Neural Feed-forward nhiều tầng sử dụng các thư viện Machine Learning phổ biến như: Theano, scikit-learn, tensorflow, cntk, kerras,...
 - Ngoài ra chúng ta sẽ cùng nghe các bài giảng về mạng Neural trong các khoá học online và thảo luận các nội dung trong đó.
