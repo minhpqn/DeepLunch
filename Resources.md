@@ -9,6 +9,7 @@
 
 ## Tutorials, Blogs
 
+- [Practical Neural Networks for NLP](https://github.com/clab/dynet_tutorial_examples), A tutorial given by Chris Dyer, Yoav Goldberg, and Graham Neubig at EMNLP 2016 in Austin.
 - [Deep Learning Tutorials using Theano](http://deeplearning.net/tutorial)
 - [Theano basic tutorial](http://deeplearning.net/software/theano/tutorial)
 - [Theano Tutorial](http://www.marekrei.com/blog/theano-tutorial), by Markek Rei.
