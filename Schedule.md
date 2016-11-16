@@ -1,5 +1,29 @@
 # Lịch hoạt động của nhóm học tập Deep Learning (Deep Lunch)
 
+## Buổi offline meeting 5: Learning word representations (word2vec algorithm)
+
+- Thời gian dự kiến: 12:30 ~ 14:00 ngày 23/11/2016
+
+### Chủ đề
+
+- Đọc hiểu thuật toán word2vec cho việc học word vector
+- Thực hành word2vec trên dữ liệu thật. See [word2vec exercises](https://github.com/minhpqn/DeepLunch/blob/master/docs/word2vec_exercises.md).
+
+### Recommended Readings
+
+- Tomas Mikolov, Ilya Sutskever, Kai Chen, Greg Corrado, and Jeffrey Dean. *Distributed Representations of Words and Phrases and their Compositionality*. In Proceedings of NIPS, 2013. [http://arxiv.org/pdf/1310.4546.pdf](http://arxiv.org/pdf/1310.4546.pdf)
+- Tomas Mikolov, Kai Chen, Greg Corrado, and Jeffrey Dean. *Efficient Estimation of Word Representations in Vector Space*. In Proceedings of Workshop at ICLR, 2013. [http://arxiv.org/pdf/1301.3781.pdf](http://arxiv.org/pdf/1301.3781.pdf)
+- [Using Neural Networks for Modelling and Representing Natural Languages](http://www.coling-2014.org/COLING%202014%20Tutorial-fix%20-%20Tomas%20Mikolov.pdf), tutorial at COLING 2014.
+
+### Source codes
+
+- [Word2Vec using Theano](https://github.com/mhjabreel/word2vec_theano)
+- [word2vec-keras-in-gensim](https://github.com/niitsuma/word2vec-keras-in-gensim)
+- [Part 2: Word Vectors](https://www.kaggle.com/c/word2vec-nlp-tutorial/details/part-2-word-vectors), on Kaggle.
+- [Vector Representations of Words](https://www.tensorflow.org/versions/r0.11/tutorials/word2vec/index.html), using TensorFlow.
+- [Google word2vec](https://github.com/minhpqn/word2vec), cloned from Goolge word2vec code.
+- [word2vec in gensim](https://radimrehurek.com/gensim/models/word2vec.html)
+
 ## Buổi offline meeting 4: Thuật toán back propagation để huấn luyện mạng Neural
 
 - Thời gian (dự kiến): 12:30 ~ 14:00 ngày 10/11/2016
