@@ -14,6 +14,14 @@
 - Tomas Mikolov, Ilya Sutskever, Kai Chen, Greg Corrado, and Jeffrey Dean. *Distributed Representations of Words and Phrases and their Compositionality*. In Proceedings of NIPS, 2013. [http://arxiv.org/pdf/1310.4546.pdf](http://arxiv.org/pdf/1310.4546.pdf)
 - Tomas Mikolov, Kai Chen, Greg Corrado, and Jeffrey Dean. *Efficient Estimation of Word Representations in Vector Space*. In Proceedings of Workshop at ICLR, 2013. [http://arxiv.org/pdf/1301.3781.pdf](http://arxiv.org/pdf/1301.3781.pdf)
 - [Using Neural Networks for Modelling and Representing Natural Languages](http://www.coling-2014.org/COLING%202014%20Tutorial-fix%20-%20Tomas%20Mikolov.pdf), tutorial at COLING 2014.
+- (Youtube) [CS 224D Lecture 2 - Lectures from 2015 ](https://www.youtube.com/watch?v=T8tQZChniMk), by Richard Socher.
+- [word2vec Parameter Learning Explained](http://www-personal.umich.edu/~ronxin/pdf/w2vexp.pdf)
+- [Word2Vec Tutorial - The Skip-Gram Model](http://mccormickml.com/2016/04/19/word2vec-tutorial-the-skip-gram-model/)
+- [Making sense of word2vec](https://rare-technologies.com/making-sense-of-word2vec/)
+- (Quora) [How does word2vec work?](https://www.quora.com/How-does-word2vec-work)
+- Goodman et al., 2001. [A Bit of Progress in Language Modeling](http://research.microsoft.com/en-us/um/redmond/groups/srg/papers/2001-joshuago-tr72.pdf)
+- (Blog) [Deep Learning, NLP, and Representations](http://colah.github.io/posts/2014-07-NLP-RNNs-Representations/)
+- [Semantic Word Vectors and Sentiment Analysis](https://github.com/wellesleynlp/wanyili-finalproject/blob/master/wordvec_sentiment.ipynb)
 
 ### Source codes
 

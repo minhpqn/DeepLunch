@@ -7,6 +7,8 @@
 
 ## Papers
 
+- [RNNLM - Recurrent Neural Network Language Modeling Toolki](http://www.fit.vutbr.cz/~imikolov/rnnlm/rnnlm-demo.pdf)
+
 ## Tutorials, Blogs
 
 - [Practical Neural Networks for NLP](https://github.com/clab/dynet_tutorial_examples), A tutorial given by Chris Dyer, Yoav Goldberg, and Graham Neubig at EMNLP 2016 in Austin.
@@ -17,6 +19,9 @@
 - [Theano Tutorial](https://github.com/craffel/theano-tutorial), by craffel
 
 ## Packages, Source Codes, Softwares
+
+- [Deep Learning for NLP resources](https://github.com/andrewt3000/DL4NLP/blob/master/README.md)
+- [RNNLM Toolkit](http://www.fit.vutbr.cz/~imikolov/rnnlm/)
 
 ## Data Sets
 
