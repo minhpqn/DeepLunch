@@ -14,7 +14,7 @@
 
 - [Chương 9 - Convolutional Networks](http://www.deeplearningbook.org/contents/convnets.html), sách Deep Learning.
 - [Chapter 6, Deep Learning](http://neuralnetworksanddeeplearning.com/chap6.html), book "Neural Networks and Deep Learning".
-- **Part V - Convolutional Neural Networks**, book "Deep Learning with Python" (đã có upload lên github)
+- **Part V - Convolutional Neural Networks**, book "Deep Learning with Python" (đã upload lên github)
 - [Convolutional Neural Networks for Visual Recognition](http://cs231n.github.io/convolutional-networks/), course CS231n.
 - [Lecture 7 - Convolutional Neural Networks](http://cs231n.stanford.edu/slides/winter1516_lecture7.pdf)
 - [Understanding Convolutional Neural Networks for NLP](http://www.wildml.com/2015/11/understanding-convolutional-neural-networks-for-nlp/), on WILDML.
