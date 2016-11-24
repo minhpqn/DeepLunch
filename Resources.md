@@ -8,6 +8,7 @@
 ## Papers
 
 - [RNNLM - Recurrent Neural Network Language Modeling Toolki](http://www.fit.vutbr.cz/~imikolov/rnnlm/rnnlm-demo.pdf)
+- [A Primer on Neural Network Models for Natural Language Processing](http://u.cs.biu.ac.il/~yogo/nnlp.pdf)
 
 ## Tutorials, Blogs
 
@@ -20,6 +21,7 @@
 
 ## Packages, Source Codes, Softwares
 
+- [DyNet - Dynamic Neural Networks Library](https://github.com/clab/dynet)
 - [Deep Learning for NLP resources](https://github.com/andrewt3000/DL4NLP/blob/master/README.md)
 - [RNNLM Toolkit](http://www.fit.vutbr.cz/~imikolov/rnnlm/)
 

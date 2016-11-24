@@ -1,5 +1,34 @@
 # Lịch hoạt động của nhóm học tập Deep Learning (Deep Lunch)
 
+## Buổi offline meeting 6: Convolutional Neural Network (CNN)
+
+- Thời gian dự kiến: 12:30 ~ 14:00 thứ năm, ngày 1/12/2016
+
+### Chủ đề
+
+- Nắm được những khái niệm cơ bản trong Convolutional Neural Networks
+- Sử dụng keras để cài đặt Convolutional Neural Network
+- Sử dụng thư viện DyNet (Dynamic neural network library) cho các bài toán cơ bản. Thư viện DyNet trước kia có tên gọi là cnn.
+
+### Recommended Readings
+
+- [Chương 9 - Convolutional Networks](http://www.deeplearningbook.org/contents/convnets.html), sách Deep Learning.
+- [Chapter 6, Deep Learning](http://neuralnetworksanddeeplearning.com/chap6.html), book "Neural Networks and Deep Learning".
+- **Part V - Convolutional Neural Networks**, book "Deep Learning with Python" (đã có upload lên github)
+- [Convolutional Neural Networks for Visual Recognition](http://cs231n.github.io/convolutional-networks/), course CS231n.
+- [Lecture 7 - Convolutional Neural Networks](http://cs231n.stanford.edu/slides/winter1516_lecture7.pdf)
+- [Understanding Convolutional Neural Networks for NLP](http://www.wildml.com/2015/11/understanding-convolutional-neural-networks-for-nlp/), on WILDML.
+- [Gihub repo for class CS231n](https://github.com/cs231n/cs231n.github.io)
+- [Visualizing what ConvNets learn](http://cs231n.github.io/understanding-cnn/)
+- [UFLDL Tutorial - part Supervised Convolutional Neural Network](http://ufldl.stanford.edu/tutorial/supervised/FeatureExtractionUsingConvolution)
+- [An Intuitive Explanation of Convolutional Neural Networks](https://ujjwalkarn.me/2016/08/11/intuitive-explanation-convnets/)
+
+### Thực hành
+
+- [Handwritten Digit Recognition using Convolutional Neural Networks in Python with Keras](http://machinelearningmastery.com/handwritten-digit-recognition-using-convolutional-neural-networks-python-keras/)
+- [Convolutional Neural Networks (LeNet) using Theano](http://deeplearning.net/tutorial/lenet.html)
+- [Convolutional Neural Networks](https://www.tensorflow.org/versions/r0.11/tutorials/deep_cnn/index.html), using Tensorflow
+
 ## Buổi offline meeting 5: Learning word representations (word2vec algorithm)
 
 - Thời gian dự kiến: 12:30 ~ 14:00 ngày 23/11/2016
