@@ -8,7 +8,7 @@
 
 - Nắm được những khái niệm cơ bản trong Convolutional Neural Networks
 - Sử dụng keras để cài đặt Convolutional Neural Network
-- Sử dụng thư viện DyNet (Dynamic neural network library) cho các bài toán cơ bản. Thư viện DyNet trước kia có tên gọi là cnn.
+- Sử dụng thư viện [DyNet (Dynamic neural network library)](https://github.com/clab/dynet) cho các bài toán cơ bản. Thư viện DyNet trước kia có tên gọi là cnn.
 
 ### Recommended Readings
 
@@ -22,6 +22,7 @@
 - [Visualizing what ConvNets learn](http://cs231n.github.io/understanding-cnn/)
 - [UFLDL Tutorial - part Supervised Convolutional Neural Network](http://ufldl.stanford.edu/tutorial/supervised/FeatureExtractionUsingConvolution)
 - [An Intuitive Explanation of Convolutional Neural Networks](https://ujjwalkarn.me/2016/08/11/intuitive-explanation-convnets/)
+- [Convolutional Neural Networks for Sentence Classification](https://arxiv.org/abs/1408.5882), by Yoon Kim.
 
 ### Thực hành
 
