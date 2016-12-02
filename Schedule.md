@@ -2,7 +2,7 @@
 
 ## Buổi offline meeting 6: Convolutional Neural Network (CNN)
 
-- Thời gian dự kiến: 12:30 ~ 14:00 thứ năm, ngày 1/12/2016
+- Thời gian dự kiến: 12:30 ~ 14:00 thứ sáu, ngày 2/12/2016
 
 ### Chủ đề
 
@@ -23,6 +23,9 @@
 - [UFLDL Tutorial - part Supervised Convolutional Neural Network](http://ufldl.stanford.edu/tutorial/supervised/FeatureExtractionUsingConvolution)
 - [An Intuitive Explanation of Convolutional Neural Networks](https://ujjwalkarn.me/2016/08/11/intuitive-explanation-convnets/)
 - [Convolutional Neural Networks for Sentence Classification](https://arxiv.org/abs/1408.5882), by Yoon Kim.
+- [Understanding Convolutions](http://colah.github.io/posts/2014-07-Understanding-Convolutions/), by Chris Olah.
+- [A Sensitivity Analysis of (and Practitioners' Guide to) Convolutional Neural Networks for Sentence Classification](https://arxiv.org/abs/1510.03820)
+- [Conv Nets: A Modular Perspective](http://colah.github.io/posts/2014-07-Conv-Nets-Modular)
 
 ### Thực hành
 
