@@ -18,6 +18,13 @@
 - [Theano Tutorial](http://www.marekrei.com/blog/theano-tutorial), by Markek Rei.
 - [Theano-Tutorials](https://github.com/Newmu/Theano-Tutorials), by Newmu
 - [Theano Tutorial](https://github.com/craffel/theano-tutorial), by craffel
+- [Deep Learning for Natural Language Processing (without Magic)](http://nlp.stanford.edu/courses/NAACL2013/), by Richard Socher and Christopher Manning.
+- [Learning Resources for NLP, Sentiment Analysis, and Deep Learning](https://github.com/Lab41/sunny-side-up/wiki/Learning-Resources-for-NLP,-Sentiment-Analysis,-and-Deep-Learning)
+- [LSTM Networks for Sentiment Analysis](http://deeplearning.net/tutorial/lstm.html)
+- [Deep Learning Techniques for Sentiment Analysis](https://github.com/Lab41/sunny-side-up/wiki/Deep-Learning-Techniques-for-Sentiment-Analysis)
+- [How to read: Character level deep learning](https://offbit.github.io/how-to-read/)
+
+## Deep Learning Courses
 
 ## Packages, Source Codes, Softwares
 
@@ -34,7 +41,3 @@
 ## Applications of Deep Learning
 
 ## Deep Learning on mass media
-
-
-
-
