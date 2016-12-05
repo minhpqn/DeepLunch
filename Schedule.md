@@ -1,8 +1,34 @@
 # Lịch hoạt động của nhóm học tập Deep Learning (Deep Lunch)
 
+## Buổi offline meeting 7: Recurrent Neural Networks (RNN)
+
+- Thời gian dự kiến: 12:30 ~ 14:00 thứ 5, ngày 15/12/2016
+
+### Chủ đề
+
+- Nắm được những khái niệm cơ bản trong Recurrent Neural Networks (RNN)
+- Thực hành RNN với thư viện [DyNet (Dynamic neural network library)](https://github.com/clab/dynet)
+
+### Recommended Readings
+
+- [Chương 10 - Sequence Modeling: Recurrent and Recursive Nets](http://www.deeplearningbook.org/contents/rnn.html)
+- [Awesome Recurrent Neural Networks](https://github.com/kjw0612/awesome-rnn), A curated list of resources dedicated to recurrent neural networks.
+- [How to Construct Deep Recurrent Neural Networks](https://arxiv.org/abs/1312.6026)
+- [Supervised Sequence Labelling with Recurrent Neural Networks](https://pdfs.semanticscholar.org/d145/5ccc018bd42a54d3c0c0f51a4d1963856452.pdf), by Alex Graves.
+- [The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
+- [Sentence Ordering using Recurrent Neural Networks](https://arxiv.org/abs/1611.02654)
+- [Recurrent NNで文書のポジネガ判定する（モデル考案編）](http://olanleed.hatenablog.com/entry/2015/12/07/233307)
+
+### Practice & Softwares
+
+- [Practical Neural Networks for NLP](https://github.com/clab/dynet_tutorial_examples), phần Recurrent Neural Networks.
+- [Introduction to Recurrent Networks in TensorFlow](http://danijar.com/introduction-to-recurrent-networks-in-tensorflow/)
+- [RNN using LSTM](https://github.com/unnati-xyz/intro-to-deep-learning-for-nlp/blob/master/Recurrent%20Neural%20Networks.ipynb)
+- [Fast Recurrent Networks Library](https://github.com/baidu-research/persistent-rnn), by Baidu-research
+
 ## Buổi offline meeting 6: Convolutional Neural Network (CNN)
 
-- Thời gian dự kiến: 12:30 ~ 14:00 thứ sáu, ngày 2/12/2016
+- Thời gian dự kiến: 12:30 ~ 14:00 thứ năm, ngày 8/12/2016
 
 ### Chủ đề
 

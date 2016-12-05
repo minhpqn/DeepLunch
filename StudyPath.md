@@ -20,8 +20,6 @@ Một hoặc vài thành viên sẽ được phân công đọc, tìm hiểu k�
 
 ## Kế hoạch học tập và tài liệu
 
-(to be added)
-
 - Kiến thức toán học cơ bản (*tự trang bị*)
   * Đại số tuyến tính (linear algebra)
   * Xác suất thống kê và lý thuyết thông tin (Probability and Information Theory)
@@ -36,7 +34,7 @@ Một hoặc vài thành viên sẽ được phân công đọc, tìm hiểu k�
 - Convolutional Neural Network (CNN)
   * Tool CNN bằng C++ [https://github.com/clab/dynet](https://github.com/clab/dynet)
   * Sử dụng CNN cho bài toán phân lớp
-- Recurrent Neural Networks
+- Recurrent Neural Networks (RNN)
 - Long Short Term Memory (LSTM)
   * LSTM for sentiment analysis
   * LSTM for Sequence Labeling 
