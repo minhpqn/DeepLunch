@@ -50,4 +50,4 @@
 - [Sequence Classification with LSTM Recurrent Neural Networks in Python with Keras](http://machinelearningmastery.com/sequence-classification-lstm-recurrent-neural-networks-python-keras/)
 - Chương 22 - Project: Predict Sentiment From Movie Reviews, book *Deep Learning with Python*
 - [LSTM Networks for Sentiment Analysis on Tweets](http://k8si.github.io/2016/01/28/lstm-networks-for-sentiment-analysis-on-tweets.html)
-
+- [LSTM Networks for Sentiment Analysis](http://deeplearning.net/tutorial/lstm.html)
