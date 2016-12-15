@@ -52,6 +52,10 @@
 - [Understanding Convolutions](http://colah.github.io/posts/2014-07-Understanding-Convolutions/), by Chris Olah.
 - [A Sensitivity Analysis of (and Practitioners' Guide to) Convolutional Neural Networks for Sentence Classification](https://arxiv.org/abs/1510.03820)
 - [Conv Nets: A Modular Perspective](http://colah.github.io/posts/2014-07-Conv-Nets-Modular)
+- [The best explanation of Convolutional Neural Networks on the Internet!](https://medium.com/technologymadeeasy/the-best-explanation-of-convolutional-neural-networks-on-the-internet-fbb8b1ad5df8#.fqjvqm2vm)
+- [Crash Course in Convolutional Neural Networks for Machine Learning](http://machinelearningmastery.com/crash-course-convolutional-neural-networks/)
+- [Convolutional Neural Networks (CNNs): An Illustrated Explanation](http://xrds.acm.org/blog/2016/06/convolutional-neural-networks-cnns-illustrated-explanation/)
+
 
 ### Thực hành
 
