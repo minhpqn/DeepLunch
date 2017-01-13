@@ -26,6 +26,11 @@
 
 ## Deep Learning Courses
 
+## Learning Resources for Deep Learning
+
+- [A Guide to Deep Learning by YN^2](http://yerevann.com/a-guide-to-deep-learning/)
+- [Awesome Recurrent Neural Networks](https://github.com/kjw0612/awesome-rnn), A curated list of resources dedicated to recurrent neural networks.
+
 ## Packages, Source Codes, Softwares
 
 - [DyNet - Dynamic Neural Networks Library](https://github.com/clab/dynet)

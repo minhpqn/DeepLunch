@@ -13,6 +13,7 @@
 
 - [Chương 10 - Sequence Modeling: Recurrent and Recursive Nets](http://www.deeplearningbook.org/contents/rnn.html)
 - [Awesome Recurrent Neural Networks](https://github.com/kjw0612/awesome-rnn), A curated list of resources dedicated to recurrent neural networks.
+- [Recurrent Neural Networks Tutorial, Part 1 – Introduction to RNNs](http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-1-introduction-to-rnns/), on WildML
 - [How to Construct Deep Recurrent Neural Networks](https://arxiv.org/abs/1312.6026)
 - [Supervised Sequence Labelling with Recurrent Neural Networks](https://pdfs.semanticscholar.org/d145/5ccc018bd42a54d3c0c0f51a4d1963856452.pdf), by Alex Graves.
 - [The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
