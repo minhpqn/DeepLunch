@@ -28,11 +28,16 @@ Hiện nay, có rất nhiều thư viện Deep Learning như Theano, TensorFlow,
 
 Một cách đơn giản là cài đặt TensorFlow là dùng conda. Xem hướng dẫn tại [Download and Setup](https://github.com/tensorflow/tensorflow/blob/master/tensorflow/g3doc/get_started/os_setup.md#optional-setup-gpu-for-mac)
 
+## Courses and Tutorials
+
+- [CS 20SI: Tensorflow for Deep Learning Research](https://web.stanford.edu/class/cs20si/)
+- [Github Repo for CS 20SI](https://github.com/chiphuyen/tf-stanford-tutorials)
+
 ## Tài liệu tham khảo
 
 - [Hello, TensorFlow!](https://www.oreilly.com/learning/hello-tensorflow)
 - [TensorFlow Tutorial and Examples for beginners](https://github.com/aymericdamien/TensorFlow-Examples)
-- [Awesome TensorFlow Awesome](https://github.com/minhpqn/awesome-tensorflow)
+- [Awesome TensorFlow](https://github.com/minhpqn/awesome-tensorflow)
 - [Machine Learning with TensorFlow](https://github.com/BinRoot/TensorFlow-Book)
 - [Introduction to Recurrent Networks in TensorFlow](http://danijar.com/introduction-to-recurrent-networks-in-tensorflow/)
 - [TensorFlow Tutorial - used by Nvidia](https://github.com/alrojo/tensorflow-tutorial)

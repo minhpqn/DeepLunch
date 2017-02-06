@@ -3,7 +3,7 @@ import numpy
 from keras.datasets import imdb
 from matplotlib import pyplot
 # load the dataset
-(X_train, y_train), (X_test, y_test) = imdb.load_data(test_split=0)
+(X_train, y_train), (X_test, y_test) = imdb.load_data()
 # summarize size
 print("Training data: ")
 print(X_train.shape)

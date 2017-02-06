@@ -26,6 +26,10 @@
 
 ## Deep Learning Courses
 
+- [Udacity's Deep Learning Course](https://www.udacity.com/course/deep-learning--ud730)
+- [CS224d: Deep Learning for Natural Language Processing](http://cs224d.stanford.edu/)
+- [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.github.io/)
+
 ## Learning Resources for Deep Learning
 
 - [A Guide to Deep Learning by YN^2](http://yerevann.com/a-guide-to-deep-learning/)
@@ -43,12 +47,6 @@
 - Benchmarking data sets cho các thuật toán Deep Learning: [http://deeplearning.net/datasets/](http://deeplearning.net/datasets/)
 - Data sets cho bài toán phân lớp: [http://www.is.umk.pl/projects/datasets.html](http://www.is.umk.pl/projects/datasets.html)
 
-## Applications of Deep Learning
-
-## Deep Learning on mass media
-
-## MISC
-
 ### Deep Learning for Sentiment Analysis
 
 - [Sentiment Analysis Tutorial](http://www.paddlepaddle.org/doc/demo/sentiment_analysis/sentiment_analysis.html)
@@ -56,3 +54,9 @@
 - Chương 22 - Project: Predict Sentiment From Movie Reviews, book *Deep Learning with Python*
 - [LSTM Networks for Sentiment Analysis on Tweets](http://k8si.github.io/2016/01/28/lstm-networks-for-sentiment-analysis-on-tweets.html)
 - [LSTM Networks for Sentiment Analysis](http://deeplearning.net/tutorial/lstm.html)
+
+### Word Embedding in Deep Learning
+
+- [Bag of Words Meets Bags of Popcorn](https://www.kaggle.com/c/word2vec-nlp-tutorial)
+- [Using pre-trained word embeddings in a Keras model](https://blog.keras.io/using-pre-trained-word-embeddings-in-a-keras-model.html)
+
