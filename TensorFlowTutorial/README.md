@@ -59,6 +59,7 @@ Một cách đơn giản là cài đặt TensorFlow là dùng conda. Xem hướn
 - [AWS Tutorial Supplementary](http://cs224d.stanford.edu/lectures/CS224D-Lecture7-2.pdf)
 - [AWS Tutorial Video](https://www.youtube.com/watch?v=zdnMXKHP-m4&feature=youtu.be)
 - [Assignments for Udacity Deep Learning class with TensorFlow](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/examples/udacity)
+- [TF.Learn: TensorFlow's High-level Module for Distributed Machine Learning](https://arxiv.org/abs/1612.04251)
 
 ## MISC 
 
