@@ -32,6 +32,10 @@ Một cách đơn giản là cài đặt TensorFlow là dùng conda. Xem hướn
 
 - [CS 20SI: Tensorflow for Deep Learning Research](https://web.stanford.edu/class/cs20si/)
 - [Github Repo for CS 20SI](https://github.com/chiphuyen/tf-stanford-tutorials)
+- [The Ultimate List of TensorFlow Resources: Books, Tutorials, Libraries and More](https://hackerlists.com/tensorflow-resources/)
+- [Accompanying source code for Machine Learning with TensorFlow](https://github.com/BinRoot/TensorFlow-Book)
+- [Trang Web Learning TensorFlow](http://learningtensorflow.com/index.html)
+- [Simple tutorials using Google's TensorFlow Framework](https://github.com/nlintz/TensorFlow-Tutorials)
 
 ## Tài liệu tham khảo
 

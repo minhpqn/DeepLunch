@@ -40,6 +40,8 @@
 - [DyNet - Dynamic Neural Networks Library](https://github.com/clab/dynet)
 - [Deep Learning for NLP resources](https://github.com/andrewt3000/DL4NLP/blob/master/README.md)
 - [RNNLM Toolkit](http://www.fit.vutbr.cz/~imikolov/rnnlm/)
+- [Convolutional Neural Networks for Sentence Classification](https://github.com/yoonkim/CNN_sentence)
+- [Convolutional Neural Network for Text Classification in Tensorflow](https://github.com/dennybritz/cnn-text-classification-tf)
 
 ## Data Sets
 

@@ -30,7 +30,7 @@ if __name__ == "__main__":
     print("Label distribution")
     print(Counter(genders))
     print()
-    
+
     print("Training model")
     vectorizer = CountVectorizer(binary=True,
                                  ngram_range=(1,2))
@@ -46,8 +46,3 @@ if __name__ == "__main__":
     score = scores.mean()
     print("average accuracy: %0.3f" % scores.mean())
     print()
-
-
-
-
-
