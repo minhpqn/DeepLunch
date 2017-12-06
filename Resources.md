@@ -29,6 +29,9 @@
 - [Udacity's Deep Learning Course](https://www.udacity.com/course/deep-learning--ud730)
 - [CS224d: Deep Learning for Natural Language Processing](http://cs224d.stanford.edu/)
 - [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.github.io/)
+- [Lecture Collection | Natural Language Processing with Deep Learning (Winter 2017)](https://www.youtube.com/playlist?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6)
+- [Neural Networks for NLP course (by Graham Neubig - CMU)](http://www.phontron.com/class/nn4nlp2017/#)
+- [CMU Neural Nets for NLP 2017](https://www.youtube.com/watch?v=Sss2EA4hhBQ&list=PL8PYTP1V4I8ABXzdqtOpB_eqBlVAz_xPT)
 
 ## Learning Resources for Deep Learning
 

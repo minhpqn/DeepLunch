@@ -21,7 +21,6 @@ Hiện nay, có rất nhiều thư viện Deep Learning như Theano, TensorFlow,
     * Recurrent Neural Networks (RNN) với mô hình Long-Short-Term-Memory (LSTM)
     * Bidirectional RNN (LSTM)
 
-
 ## Chuẩn bị
 
 ### Cài đặt TensorFlow
@@ -36,9 +35,14 @@ Một cách đơn giản là cài đặt TensorFlow là dùng conda. Xem hướn
 - [Accompanying source code for Machine Learning with TensorFlow](https://github.com/BinRoot/TensorFlow-Book)
 - [Trang Web Learning TensorFlow](http://learningtensorflow.com/index.html)
 - [Simple tutorials using Google's TensorFlow Framework](https://github.com/nlintz/TensorFlow-Tutorials)
+- [TensorFlow Basic Tutorial Labs](https://github.com/hunkim/DeepLearningZeroToAll). Lab slides: [https://drive.google.com/drive/folders/0B41Zbb4c8HVyMHlSQlVFWWphNXc](https://drive.google.com/drive/folders/0B41Zbb4c8HVyMHlSQlVFWWphNXc)
+- [Google TensorFlow Tutorial](https://www.slideshare.net/tw_dsconf/tensorflow-tutorial)
 
 ## Tài liệu tham khảo
 
+- [Python TensorFlow Tutorial – Build a Neural Network](http://adventuresinmachinelearning.com/python-tensorflow-tutorial/)
+- [Tensor flow Python API | TensorFlow](https://www.tensorflow.org/api_docs/python/)
+- [A Tour of TensorFlow](https://arxiv.org/abs/1610.01178), by Peter Goldsborough.
 - [Hello, TensorFlow!](https://www.oreilly.com/learning/hello-tensorflow)
 - [TensorFlow Tutorial and Examples for beginners](https://github.com/aymericdamien/TensorFlow-Examples)
 - [Awesome TensorFlow](https://github.com/minhpqn/awesome-tensorflow)

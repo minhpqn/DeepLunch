@@ -6,6 +6,7 @@ Github: [https://github.com/pytorch/pytorch](https://github.com/pytorch/pytorch)
 
 ## Tutorials
 
+- The Incredible PyTorch: a curated list of tutorials, papers, projects, communities and more relating to PyTorch. [https://github.com/ritchieng/the-incredible-pytorch](https://github.com/ritchieng/the-incredible-pytorch)
 - [pytorch/tutorials](https://github.com/pytorch/tutorials)
 - [pytorch/examples](https://github.com/pytorch/examples)
 - [yunjey/pytorch-tutorial](https://github.com/yunjey/pytorch-tutorial/blob/master/README.md)
