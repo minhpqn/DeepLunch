@@ -11,9 +11,10 @@
     + Mạng RNN đơn giản
     + Mạng LSTM
     + Mạng GRU
+- Cài đặt được character embedding với RNN và CNN.
 - Cài đặt được bằng Pytorch kiến trúc seq2seq (encoder-decoder)
 - Cài đặt được seq2seq với attention
-- Cài đặt được seq2seq + copy attention mechanism
+- Cài đặt được seq2seq + copy attention mechanism (Jia and Liang paper)
 - Thành thạo Pytorch cho các bài toán NLP cơ bản:
     + Phân loại văn bản
     + Gán nhãn chuỗi (Word Segmentation, PoS Tagging, NER, etc)
