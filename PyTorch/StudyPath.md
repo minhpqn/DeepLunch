@@ -29,6 +29,7 @@
 - [MILA PyTorch Welcome Tutorials](https://github.com/mila-udem/welcome_tutorials)
 - [Pytorch Official Tutorials](http://pytorch.org/tutorials/)
 - [Minimal tutorials for PyTorch](https://github.com/vinhkhuc/PyTorch-Mini-Tutorials)
+- [Learning PyTorch with Examples](http://pytorch.org/tutorials/beginner/pytorch_with_examples.html)
 
 ### Cài đặt các kiến trúc mạng cơ bản
 
@@ -42,3 +43,9 @@
 ### Deep Learning trong NLP với Pytorch
 
 - [Deep Learning for NLP in PyTorch](https://github.com/rguthrie3/DeepLearningForNLPInPytorch)
+- Materials for O'Reilly DL 4 NLP tutorial (NYC, June 2017): [https://github.com/joosthub/pytorch-nlp-tutorial-nyc2017](https://github.com/joosthub/pytorch-nlp-tutorial-nyc2017)
+
+## MISC
+
+- [Awesome-Pytorch-list](https://github.com/bharathgs/Awesome-pytorch-list)
+- [Natural Language Processing (NLP) with PyTorch](https://github.com/joosthub/pytorch-nlp-tutorial-sf2017)

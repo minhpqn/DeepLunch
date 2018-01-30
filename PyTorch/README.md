@@ -13,4 +13,6 @@ Github: [https://github.com/pytorch/pytorch](https://github.com/pytorch/pytorch)
 - [Practical PyTorch Tutorial](https://github.com/spro/practical-pytorch)
 - [Tutorial: Deep Learning in PyTorch](https://iamtrask.github.io/2017/01/15/pytorch-tutorial/)
 - [Deep Learning for NLP in PyTorch](https://github.com/rguthrie3/DeepLearningForNLPInPytorch)
+- [bharathgs/Awesome-pytorch-list](https://porter.io/github.com/bharathgs/Awesome-pytorch-list)
+- [Deep Learning for Chatbot (1/4)](https://www.slideshare.net/JaeminCho6/dl-chatbot-seminar-day-01-80593691)
 
